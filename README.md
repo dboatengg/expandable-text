@@ -13,7 +13,7 @@ Expandable Text is a very simple project that allows users to toggle between a f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repository-name>.git
+   git clone https://github.com/dboatengg/expandable-text.git
    ```
 
 2. Install dependencies:
